@@ -56,7 +56,7 @@ but with all the text removed.
 
 It appears unlikely that GitLab is ever going to properly display
 PNGs, inline or standalone, so the [workarounds given on Stack
-Overflow][ so29982037] appear to be what you'll have to do if you want
+Overflow][so29982037] appear to be what you'll have to do if you want
 these displayed.
 
 
